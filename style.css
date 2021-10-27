@@ -1,0 +1,27 @@
+body{
+    background-image:url(https://i.pinimg.com/originals/dc/88/c0/dc88c0e9cfd0e839cfb8b5d692c401a2.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+
+.background{
+    background-color: white;
+    margin-top:60px;
+    width:80%;
+    height:700px;
+    opacity:0.7;
+}
+
+h3{
+    font-size:18px !important;
+    letter-spacing: 3px !important;
+}
+
+canvas{
+    border-style:dashed;
+    margin-top:20px;
+}
+
+h4{
+font-weight: bold;
+}
